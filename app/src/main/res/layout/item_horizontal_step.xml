@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+        <View
+            android:id="@+id/view_head"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:background="#BA55D3"
+            android:layout_weight="1"
+            ></View>
+
+        <ImageView
+            android:id="@+id/img_position"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/icon_attention"/>
+
+
+        <View
+            android:id="@+id/view_foot"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:background="#BA55D3"
+            android:layout_weight="1"
+            ></View>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/content_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="第一步"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>
