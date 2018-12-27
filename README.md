@@ -2,7 +2,7 @@
 一款由Recyclerview打造的步骤控件，支持横向和纵向
 由Recyclerview构造而成， 节点的图片和样式可以根据需求改动， 节点的连接线可以自定义<br>
 横向
-` ``Java
+```
  private   void   initHorizontal(){
        recy_list.setLayoutManager(new LinearLayoutManager(this,
                LinearLayoutManager.HORIZONTAL, false));
@@ -17,9 +17,10 @@
        stepAdapter.setCurrentPosition(3);
        recy_list.setAdapter(stepAdapter);
    }
+   ```
    
   纵向
-  ` ``Java
+  ```
     private  void   initVerTical(){
        recy_list.setLayoutManager(new LinearLayoutManager(this,
                LinearLayoutManager.VERTICAL, false));
@@ -34,5 +35,6 @@
        stepAdapter.setCurrentPosition(3);
        recy_list.setAdapter(stepAdapter);
    }
+   ```
    ![](https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092629.png)
    
