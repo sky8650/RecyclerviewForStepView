@@ -1,5 +1,5 @@
 # RecyclerviewForStepView
-一款由Recyclerview打造的步骤控件，支持横向和纵向
+一款由Recyclerview打造的步骤控件，支持横向和纵向<br>
 由Recyclerview构造而成， 节点的图片和样式可以根据需求改动， 节点的连接线可以自定义<br>
 横向
 ```
@@ -36,5 +36,7 @@
        recy_list.setAdapter(stepAdapter);
    }
    ```
-   ![](https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092629.png)
+   <img src="https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092629.png"
+   width="375" alt="竖"/>
+
    
