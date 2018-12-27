@@ -39,7 +39,7 @@
    <img src="https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092629.png"
    width="375" alt="竖"/><br>
    
-   <img src="https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092629.png"
+   <img src="https://github.com/sky8650/RecyclerviewForStepView/blob/master/app/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181227092636.png"
    width="375" alt="竖"/>
    
 
