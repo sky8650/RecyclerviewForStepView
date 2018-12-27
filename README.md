@@ -2,6 +2,7 @@
 一款由Recyclerview打造的步骤控件，支持横向和纵向
 由Recyclerview构造而成， 节点的图片和样式可以根据需求改动， 节点的连接线可以自定义<br>
 横向
+` ``Java
  private   void   initHorizontal(){
        recy_list.setLayoutManager(new LinearLayoutManager(this,
                LinearLayoutManager.HORIZONTAL, false));
@@ -18,6 +19,7 @@
    }
    
   纵向
+  ` ``Java
     private  void   initVerTical(){
        recy_list.setLayoutManager(new LinearLayoutManager(this,
                LinearLayoutManager.VERTICAL, false));
