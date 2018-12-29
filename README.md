@@ -1,6 +1,6 @@
 # RecyclerviewForStepView
 一款由Recyclerview打造的步骤控件，支持横向和纵向<br>
-节点的图片和样式可以根据需求改动， 节点的连接线可以自定义。可以添加动画,点击事件等效果<br><br>
+节点的图片和样式可以根据需求改动， 节点的连接线可以自定义。可以添加动画效果，点击事件等<br><br>
 横向
 ```
  private   void   initHorizontal(){
